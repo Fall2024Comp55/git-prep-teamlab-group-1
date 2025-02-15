@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 100);
 		add(robot);
-		GLabel label = new GLabel("When I feel using github hackslash. (^w^)", 200, 400);
+		GLabel label = new GLabel("When I feel using github hackslash. (^w^)!!!", 200, 400);
 		add(label);
 	}
 	
